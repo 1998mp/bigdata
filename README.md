@@ -1,1 +1,1 @@
-# bigdata
+# 'Big Data' elemzési módszerek
